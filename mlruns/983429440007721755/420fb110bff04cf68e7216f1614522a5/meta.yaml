@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/behruzgurbanli/Desktop/Fall2024/Machine%20Learning/Project/mlruns/983429440007721755/420fb110bff04cf68e7216f1614522a5/artifacts
+end_time: 1734460508669
+entry_point_name: ''
+experiment_id: '983429440007721755'
+lifecycle_stage: active
+run_id: 420fb110bff04cf68e7216f1614522a5
+run_name: Data_Preprocessing
+run_uuid: 420fb110bff04cf68e7216f1614522a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734460508631
+status: 3
+tags: []
+user_id: behruzgurbanli
