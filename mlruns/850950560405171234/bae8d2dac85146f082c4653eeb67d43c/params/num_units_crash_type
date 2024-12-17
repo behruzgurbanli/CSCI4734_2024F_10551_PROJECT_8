@@ -1,0 +1,25 @@
+num_units  crash_type                      
+1          NO INJURY / DRIVE AWAY                4886
+           INJURY AND / OR TOW DUE TO CRASH      4423
+2          NO INJURY / DRIVE AWAY              135390
+           INJURY AND / OR TOW DUE TO CRASH     33205
+3          INJURY AND / OR TOW DUE TO CRASH      5199
+           NO INJURY / DRIVE AWAY                4897
+4          INJURY AND / OR TOW DUE TO CRASH      1324
+           NO INJURY / DRIVE AWAY                 547
+5          INJURY AND / OR TOW DUE TO CRASH       369
+           NO INJURY / DRIVE AWAY                  71
+6          INJURY AND / OR TOW DUE TO CRASH        96
+           NO INJURY / DRIVE AWAY                  18
+7          INJURY AND / OR TOW DUE TO CRASH        31
+           NO INJURY / DRIVE AWAY                   6
+8          INJURY AND / OR TOW DUE TO CRASH        17
+           NO INJURY / DRIVE AWAY                   1
+9          INJURY AND / OR TOW DUE TO CRASH         6
+           NO INJURY / DRIVE AWAY                   1
+10         INJURY AND / OR TOW DUE TO CRASH         4
+11         INJURY AND / OR TOW DUE TO CRASH         1
+           NO INJURY / DRIVE AWAY                   1
+12         INJURY AND / OR TOW DUE TO CRASH         1
+18         INJURY AND / OR TOW DUE TO CRASH         1
+Name: count, dtype: int64

@@ -1,0 +1,14 @@
+device_condition        crash_type                      
+FUNCTIONING IMPROPERLY  NO INJURY / DRIVE AWAY                835
+                        INJURY AND / OR TOW DUE TO CRASH      389
+FUNCTIONING PROPERLY    NO INJURY / DRIVE AWAY              50781
+                        INJURY AND / OR TOW DUE TO CRASH    19263
+NO CONTROLS             NO INJURY / DRIVE AWAY              85406
+                        INJURY AND / OR TOW DUE TO CRASH    22390
+NOT FUNCTIONING         NO INJURY / DRIVE AWAY                418
+                        INJURY AND / OR TOW DUE TO CRASH      181
+OTHER                   NO INJURY / DRIVE AWAY               1053
+                        INJURY AND / OR TOW DUE TO CRASH      504
+UNKNOWN                 NO INJURY / DRIVE AWAY               7325
+                        INJURY AND / OR TOW DUE TO CRASH     1950
+Name: count, dtype: int64

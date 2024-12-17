@@ -1,0 +1,8 @@
+roadway_surface_condition
+DRY              141803
+WET               27370
+UNKNOWN           11602
+SNOW OR SLUSH      7530
+ICE                1666
+OTHER               524
+Name: count, dtype: int64

@@ -1,0 +1,29 @@
+trafficway_type                  crash_type                      
+ALLEY                            NO INJURY / DRIVE AWAY               2180
+                                 INJURY AND / OR TOW DUE TO CRASH      524
+CENTER TURN LANE                 NO INJURY / DRIVE AWAY               1182
+                                 INJURY AND / OR TOW DUE TO CRASH      862
+DIVIDED - W/MEDIAN (NOT RAISED)  NO INJURY / DRIVE AWAY              30837
+                                 INJURY AND / OR TOW DUE TO CRASH    10291
+DIVIDED - W/MEDIAN BARRIER       NO INJURY / DRIVE AWAY               9126
+                                 INJURY AND / OR TOW DUE TO CRASH     4484
+DRIVEWAY                         NO INJURY / DRIVE AWAY                454
+                                 INJURY AND / OR TOW DUE TO CRASH       62
+FOUR WAY                         INJURY AND / OR TOW DUE TO CRASH        9
+                                 NO INJURY / DRIVE AWAY                  2
+NOT DIVIDED                      NO INJURY / DRIVE AWAY              68297
+                                 INJURY AND / OR TOW DUE TO CRASH    21605
+ONE-WAY                          NO INJURY / DRIVE AWAY              23656
+                                 INJURY AND / OR TOW DUE TO CRASH     5191
+OTHER                            NO INJURY / DRIVE AWAY               2783
+                                 INJURY AND / OR TOW DUE TO CRASH     1055
+PARKING LOT                      NO INJURY / DRIVE AWAY               5824
+                                 INJURY AND / OR TOW DUE TO CRASH      320
+RAMP                             NO INJURY / DRIVE AWAY                465
+                                 INJURY AND / OR TOW DUE TO CRASH      144
+T-INTERSECTION                   INJURY AND / OR TOW DUE TO CRASH        1
+                                 NO INJURY / DRIVE AWAY                  1
+UNKNOWN                          NO INJURY / DRIVE AWAY               1011
+                                 INJURY AND / OR TOW DUE TO CRASH      128
+UNKNOWN INTERSECTION TYPE        INJURY AND / OR TOW DUE TO CRASH        1
+Name: count, dtype: int64

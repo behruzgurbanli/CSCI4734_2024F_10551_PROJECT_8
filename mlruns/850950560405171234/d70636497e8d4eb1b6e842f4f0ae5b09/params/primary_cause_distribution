@@ -1,0 +1,31 @@
+primary_cause
+UNABLE TO DETERMINE                                                                 65516
+FOLLOWING TOO CLOSELY                                                               23357
+FAILING TO YIELD RIGHT-OF-WAY                                                       22017
+IMPROPER OVERTAKING/PASSING                                                         10208
+IMPROPER LANE USAGE                                                                  8766
+FAILING TO REDUCE SPEED TO AVOID CRASH                                               8336
+NOT APPLICABLE                                                                       7712
+IMPROPER BACKING                                                                     7303
+IMPROPER TURNING/NO SIGNAL                                                           6850
+DRIVING SKILLS/KNOWLEDGE/EXPERIENCE                                                  5578
+WEATHER                                                                              3492
+DISREGARDING TRAFFIC SIGNALS                                                         3080
+OPERATING VEHICLE IN ERRATIC, RECKLESS, CARELESS, NEGLIGENT OR AGGRESSIVE MANNER     2355
+DISREGARDING STOP SIGN                                                               2022
+DISTRACTION - FROM INSIDE VEHICLE                                                    1527
+EXCEEDING AUTHORIZED SPEED LIMIT                                                     1488
+EXCEEDING SAFE SPEED FOR CONDITIONS                                                  1303
+EQUIPMENT - VEHICLE CONDITION                                                        1129
+OTHER                                                                                1103
+PHYSICAL CONDITION OF DRIVER                                                         1099
+VISION OBSCURED (SIGNS, TREE LIMBS, BUILDINGS, ETC.)                                 1092
+UNDER THE INFLUENCE OF ALCOHOL/DRUGS (USE WHEN ARREST IS EFFECTED)                   1021
+DRIVING ON WRONG SIDE/WRONG WAY                                                       914
+DISTRACTION - FROM OUTSIDE VEHICLE                                                    903
+ROAD ENGINEERING/SURFACE/MARKING DEFECTS                                              660
+ROAD CONSTRUCTION/MAINTENANCE                                                         606
+EVASIVE ACTION DUE TO ANIMAL, OBJECT, NONMOTORIST                                     402
+DISREGARDING OTHER TRAFFIC SIGNS                                                      372
+CELL PHONE USE OTHER THAN TEXTING                                                     284
+Name: count, dtype: int64

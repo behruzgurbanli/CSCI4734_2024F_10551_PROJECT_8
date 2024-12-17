@@ -1,0 +1,8 @@
+alignment
+STRAIGHT AND LEVEL       185384
+STRAIGHT ON GRADE          2379
+CURVE, LEVEL               1617
+STRAIGHT ON HILLCREST       713
+CURVE ON GRADE              307
+OTHER                        95
+Name: count, dtype: int64

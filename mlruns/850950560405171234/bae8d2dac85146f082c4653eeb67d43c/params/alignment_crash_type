@@ -1,0 +1,14 @@
+alignment              crash_type                      
+CURVE ON GRADE         NO INJURY / DRIVE AWAY                 169
+                       INJURY AND / OR TOW DUE TO CRASH       138
+CURVE, LEVEL           NO INJURY / DRIVE AWAY                 967
+                       INJURY AND / OR TOW DUE TO CRASH       650
+OTHER                  NO INJURY / DRIVE AWAY                  54
+                       INJURY AND / OR TOW DUE TO CRASH        41
+STRAIGHT AND LEVEL     NO INJURY / DRIVE AWAY              142681
+                       INJURY AND / OR TOW DUE TO CRASH     42703
+STRAIGHT ON GRADE      NO INJURY / DRIVE AWAY                1472
+                       INJURY AND / OR TOW DUE TO CRASH       907
+STRAIGHT ON HILLCREST  NO INJURY / DRIVE AWAY                 475
+                       INJURY AND / OR TOW DUE TO CRASH       238
+Name: count, dtype: int64

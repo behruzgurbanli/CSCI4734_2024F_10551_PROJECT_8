@@ -1,0 +1,14 @@
+road_defect      crash_type                      
+NO DEFECTS       NO INJURY / DRIVE AWAY              120704
+                 INJURY AND / OR TOW DUE TO CRASH     38828
+OTHER            NO INJURY / DRIVE AWAY                 996
+                 INJURY AND / OR TOW DUE TO CRASH       366
+RUT, HOLES       NO INJURY / DRIVE AWAY                1679
+                 INJURY AND / OR TOW DUE TO CRASH       518
+SHOULDER DEFECT  NO INJURY / DRIVE AWAY                 294
+                 INJURY AND / OR TOW DUE TO CRASH       121
+UNKNOWN          NO INJURY / DRIVE AWAY               21416
+                 INJURY AND / OR TOW DUE TO CRASH      4521
+WORN SURFACE     NO INJURY / DRIVE AWAY                 729
+                 INJURY AND / OR TOW DUE TO CRASH       323
+Name: count, dtype: int64

@@ -1,0 +1,8 @@
+damage         crash_type                      
+$500 OR LESS   NO INJURY / DRIVE AWAY              20894
+               INJURY AND / OR TOW DUE TO CRASH     4626
+$501 - $1,500  NO INJURY / DRIVE AWAY              51398
+               INJURY AND / OR TOW DUE TO CRASH     5263
+OVER $1,500    NO INJURY / DRIVE AWAY              73526
+               INJURY AND / OR TOW DUE TO CRASH    34788
+Name: count, dtype: int64

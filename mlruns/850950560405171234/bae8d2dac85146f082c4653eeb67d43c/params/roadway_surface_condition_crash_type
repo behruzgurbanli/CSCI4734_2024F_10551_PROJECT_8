@@ -1,0 +1,14 @@
+roadway_surface_condition  crash_type                      
+DRY                        NO INJURY / DRIVE AWAY              109261
+                           INJURY AND / OR TOW DUE TO CRASH     32542
+ICE                        NO INJURY / DRIVE AWAY                1154
+                           INJURY AND / OR TOW DUE TO CRASH       512
+OTHER                      NO INJURY / DRIVE AWAY                 350
+                           INJURY AND / OR TOW DUE TO CRASH       174
+SNOW OR SLUSH              NO INJURY / DRIVE AWAY                5744
+                           INJURY AND / OR TOW DUE TO CRASH      1786
+UNKNOWN                    NO INJURY / DRIVE AWAY               10253
+                           INJURY AND / OR TOW DUE TO CRASH      1349
+WET                        NO INJURY / DRIVE AWAY               19056
+                           INJURY AND / OR TOW DUE TO CRASH      8314
+Name: count, dtype: int64

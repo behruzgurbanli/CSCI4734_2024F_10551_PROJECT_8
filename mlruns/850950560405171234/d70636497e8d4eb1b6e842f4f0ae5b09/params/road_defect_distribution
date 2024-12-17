@@ -1,0 +1,8 @@
+road_defect
+NO DEFECTS         159532
+UNKNOWN             25937
+RUT, HOLES           2197
+OTHER                1362
+WORN SURFACE         1052
+SHOULDER DEFECT       415
+Name: count, dtype: int64

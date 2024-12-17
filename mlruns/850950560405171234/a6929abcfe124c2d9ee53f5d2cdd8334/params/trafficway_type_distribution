@@ -1,0 +1,16 @@
+trafficway_type
+NOT DIVIDED                        89902
+DIVIDED - W/MEDIAN (NOT RAISED)    41128
+ONE-WAY                            28847
+DIVIDED - W/MEDIAN BARRIER         13610
+PARKING LOT                         6144
+OTHER                               3838
+ALLEY                               2704
+CENTER TURN LANE                    2044
+UNKNOWN                             1139
+RAMP                                 609
+DRIVEWAY                             516
+FOUR WAY                              11
+T-INTERSECTION                         2
+UNKNOWN INTERSECTION TYPE              1
+Name: count, dtype: int64
