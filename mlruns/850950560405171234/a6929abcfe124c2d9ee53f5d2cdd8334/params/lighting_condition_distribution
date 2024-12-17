@@ -1,8 +1,0 @@
-lighting_condition
-DAYLIGHT                  122229
-DARKNESS, LIGHTED ROAD     43106
-DARKNESS                    9562
-UNKNOWN                     6463
-DUSK                        5977
-DAWN                        3158
-Name: count, dtype: int64

@@ -1,8 +1,0 @@
-hit_and_run  crash_type                      
-N            NO INJURY / DRIVE AWAY                1620
-             INJURY AND / OR TOW DUE TO CRASH       733
-UNKNOWN      NO INJURY / DRIVE AWAY              103294
-             INJURY AND / OR TOW DUE TO CRASH     34101
-Y            NO INJURY / DRIVE AWAY               40904
-             INJURY AND / OR TOW DUE TO CRASH      9843
-Name: count, dtype: int64

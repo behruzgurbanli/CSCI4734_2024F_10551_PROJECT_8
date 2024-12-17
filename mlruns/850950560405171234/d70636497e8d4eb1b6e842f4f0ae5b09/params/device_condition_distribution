@@ -1,8 +1,0 @@
-device_condition
-NO CONTROLS               107796
-FUNCTIONING PROPERLY       70044
-UNKNOWN                     9275
-OTHER                       1557
-FUNCTIONING IMPROPERLY      1224
-NOT FUNCTIONING              599
-Name: count, dtype: int64

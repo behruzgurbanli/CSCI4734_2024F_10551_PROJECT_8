@@ -1,5 +1,0 @@
-damage
-OVER $1,500      108314
-$501 - $1,500     56661
-$500 OR LESS      25520
-Name: count, dtype: int64

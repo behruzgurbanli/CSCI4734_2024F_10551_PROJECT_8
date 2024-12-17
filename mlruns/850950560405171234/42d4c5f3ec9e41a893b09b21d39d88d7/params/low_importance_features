@@ -1,3 +1,0 @@
-Index(['weather_condition', 'device_condition', 'roadway_surface_condition',
-       'hit_and_run', 'road_defect', 'alignment', 'not_right_of_way'],
-      dtype='object')

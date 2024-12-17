@@ -1,8 +1,0 @@
-not_right_of_way  crash_type                      
-N                 NO INJURY / DRIVE AWAY                 356
-                  INJURY AND / OR TOW DUE TO CRASH       267
-UNKNOWN           NO INJURY / DRIVE AWAY              141718
-                  INJURY AND / OR TOW DUE TO CRASH     43156
-Y                 NO INJURY / DRIVE AWAY                3744
-                  INJURY AND / OR TOW DUE TO CRASH      1254
-Name: count, dtype: int64

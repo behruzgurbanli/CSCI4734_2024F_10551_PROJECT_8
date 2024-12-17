@@ -1,9 +1,0 @@
-traffic_control_device
-NO CONTROLS          107053
-TRAFFIC SIGNAL        56430
-STOP SIGN/FLASHER     18952
-UNKNOWN                4965
-OTHER                  1811
-LANE USE MARKING       1019
-YIELD                   265
-Name: count, dtype: int64
